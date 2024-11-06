@@ -1,0 +1,17 @@
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\bin\Debug\Assessment.exe.config
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\bin\Debug\Assessment.exe
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\bin\Debug\Assessment.pdb
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\bin\Debug\Assessment.xml
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.summary.resources
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.Resources.resources
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.vbproj.GenerateResource.Cache
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.exe
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.xml
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.pdb
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.main_page.resources
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.calculate.resources
+D:\HND16\VB.Net\Assessment\Assessment\Assessment\obj\Debug\Assessment.freehand_drawing.resources
+D:\HND16\VB.Net\Assessment\VB_Assessment\Assessment\bin\Debug\Assessment.exe.config
+D:\HND16\VB.Net\Assessment\VB_Assessment\Assessment\obj\Debug\Assessment.exe
+D:\HND16\VB.Net\Assessment\VB_Assessment\Assessment\obj\Debug\Assessment.xml
+D:\HND16\VB.Net\Assessment\VB_Assessment\Assessment\obj\Debug\Assessment.pdb
